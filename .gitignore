@@ -1,0 +1,10 @@
+# Abaikan environment
+backend/venv/
+
+# Abaikan cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Abaikan file konfigurasi environment
+.env
